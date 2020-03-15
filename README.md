@@ -12,7 +12,7 @@
  Логика калькулятора вынесенна в отдельный класс Convertor.js
  Актуальный курс валют берем с сервера [ПриватБанка](https://api.privatbank.ua/p24api/pubinfo?json&exchange&coursid=5)
  
- Результат работы проекта [Landing Page](https://private2020-convertor.herokuapp.com) 
+ Результат работы проекта [Project Currency Convertor](https://private2020-convertor.herokuapp.com) 
      
  Пооект размещен на бесплатном хостинге nodejs [Heroku.com](https://herokuapp.com).
  
